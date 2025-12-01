@@ -17,9 +17,6 @@ two AWS regions (us-east-1 & us-west-2) using **Terraform**.
 ## 🛠️ Tech Used
 Terraform, AWS EC2, VPC, RDS, ALB, ASG, NAT, CloudWatch, CloudFront, WAF, Backup Vault
 
-## 📂 Architecture
-(Insert GIF/PNG of the architecture diagram here)
-
 ## ❤️ Author
 Venkata Lingarao Andugulapati  
 Portfolio: https://venkata-lingarao-portfolio.netlify.app  

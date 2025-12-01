@@ -1,8 +1,5 @@
 # Multi-Region AWS Warm-Standby DR Architecture (Terraform)
 
-![Uploading image.png…]()
-
-
 This project deploys a production-grade **Disaster Recovery architecture** across 
 two AWS regions (us-east-1 & us-west-2) using **Terraform**.
 
